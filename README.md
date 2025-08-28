@@ -1,2 +1,2 @@
 # Bytes4Future
-Meus projetos no curso PowerUp da Bytes4Future Porto
+Meus projetos no curso Full Stack Developer da Bytes4Future Porto
